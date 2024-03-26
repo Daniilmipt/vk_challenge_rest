@@ -1,0 +1,14 @@
+package constan
+
+const (
+	TITLE_MIN_LEN = 1
+	TITLE_MAX_LEN = 100
+
+	CONTENT_MIN_LEN = 1
+	CONTENT_MAX_LEN = 109
+
+	PRICE_MIN = 0
+	PRICE_MAX = 1_000_000
+
+	USER = "USER"
+)
